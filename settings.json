@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "workbench.iconTheme": "vscode-icons",
+    "git.autofetch": true,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.confirmDragAndDrop": false,
+    "liveSassCompile.settings.forceBaseDirectory": ""
+}
